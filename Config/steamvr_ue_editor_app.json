@@ -2,15 +2,15 @@
 	"source": "UE",
 	"applications": [
 		{
-			"app_key": "application.generated.ue.virtual-reality-bp-game-template-11590370.ue4editor.exe",
+			"app_key": "application.generated.ue.vracademytemplate-11590370.ue4editor.exe",
 			"launch_type": "url",
 			"url": "steam://launch/",
-			"action_manifest_path": "D:/UnrealProjects/EscapeRoom1/Config/SteamVRBindings/steamvr_manifest.json",
+			"action_manifest_path": "D:/DNA ACADEMY/GH/academy/Config/SteamVRBindings/steamvr_manifest.json",
 			"strings":
 			{
 				"en_us":
 				{
-					"name": "Virtual Reality BP Game Template-11590370 [UE Editor]"
+					"name": "VRAcademyTemplate-11590370 [UE Editor]"
 				}
 			}
 		}
